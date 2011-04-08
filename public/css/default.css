@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+body {
+	font-family: Arial, sans-serif; 	
+}
+
+div.rest {
+	float:left;
+	margin: 150px; 
+	width:400px; 
+	height:100%; 
+	background:#dadada; 
+	text-align:center; 
+	border-radius:10px; 
+	-moz-border-radius:10px; 
+	-webkit-border-radius:10px;	
+}
+
+form {
+	margin: 20px;	
+}
+
+p {
+	margin: 5px;
+}
+
+table#autor, tr, td {
+	margin: 10px;
+	padding: 0 0 0 0;
+}
